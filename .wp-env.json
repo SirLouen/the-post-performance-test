@@ -1,0 +1,13 @@
+{
+    "plugins": [ "." ],
+    "port": 4013,
+    "testsPort": 4012,
+    "mappings": {
+    ".htaccess": ".htaccess"
+   },
+    "config": {
+      "WP_DEBUG": true,
+      "WP_DEBUG_LOG": true,
+      "WP_DEBUG_DISPLAY": false
+    }
+  }
